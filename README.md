@@ -74,11 +74,6 @@ Run:
 - Open `project/web/index.html` in a browser (or serve locally).
 - The viewer loads `sample-frame-base64.txt`, shows the image, and overlays FPS + resolution.
 
-## Screenshots
-- Android Edge View: [placeholder]
-- Android Raw View: [placeholder]
-- Web Viewer: [placeholder]
-
 ## Notes
 - Performance target is ~15 FPS at 640x480. Increase preview size with caution.
 - Fragment shader accepts both LUMINANCE and RGBA textures without branching.
